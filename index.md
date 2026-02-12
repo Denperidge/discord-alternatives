@@ -23,7 +23,7 @@ All of the options below (except for Discord itself) are *open-source*
 
 ### Not considered
 - Nostr/Flotilla - complicated usage, a bit too crypto heavy
-- Mattermost, Rocket.chat - aggressive pricing
+- Mattermost, Rocket.chat, Zulip - aggressive pricing
 - Kahla - website down, no downloadable release
 - Adapt chat, common ground, 0xchat, dirc, Valour, Neremity & Strafe - Too little traction
 - Retroshare - Only releases a new version every few years
